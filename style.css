@@ -9,7 +9,7 @@ h1{
 
 
 .header{
-  background-color: #73777B;
+  background-color: #D0C9C0;
   display:inherit;
   position:sticky;
 
@@ -18,8 +18,15 @@ h1{
   padding: 20px;
   width: 70%;
   display: inline-block;
-  color: white;
+  
 }
+.heading:hover{
+  color:white;
+}
+.heading:active{
+  color:red;
+}
+  
 .buttons{
   display: inline-block;
 }
