@@ -1,0 +1,171 @@
+body{
+  margin: 0px;
+
+}
+h1{
+  margin: 0px;
+  font-size: 3rem;
+}
+
+
+.header{
+  background-color: #73777B;
+  display:inherit;
+  position:sticky;
+
+}
+.heading{
+  padding: 20px;
+  width: 70%;
+  display: inline-block;
+  color: white;
+}
+.buttons{
+  display: inline-block;
+}
+.list{
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+.list:hover{
+  color: red;
+}
+.body{
+
+  padding-left: 300px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #68A7AD;
+}
+.description{
+  font-size: 1rem;
+}
+.title{
+  color: #205375;
+  text-decoration: underline;
+}
+.line{
+  border-width:2px;
+  border-color: grey;
+  border-style: none;
+  width: 8%;
+  border-top-style: dashed;
+}
+.form{
+  padding-left: 35%;
+  padding-top: 100px;
+  background-color: #D0C9C0;
+
+}
+.images{
+  padding-left: 70px;
+
+}
+.img{
+  padding: 30px;
+}
+.img-project{
+  padding-top: 55px;
+  padding-left: 30px;
+
+}
+.assignment{
+  padding-top: 20px;
+  width:20%;
+  display: inline-block;
+}
+.project{
+  padding-top: 20px;
+  padding-left: 30px;
+  display: inline-block;
+  width: 20%;
+}
+
+.exam{
+  padding-top: 40px;
+  padding-left: 40px;
+display: inline-block;
+width: 20%;
+}
+.work{
+  padding-left: 40px;
+display: inline-block;
+width: 25%;
+
+}
+.center{
+  text-align: center;
+}
+.para{
+  text-align: justify;
+}
+.aboutme-div{
+  text-align: center;
+  font-size: 1.5rem;
+}
+.about-heads{
+  text-decoration: underline;
+  text-decoration-color: grey;
+}
+.para-about{
+  padding:20px;
+}
+.features{
+  display: inline-block;
+  padding-left: 60px;
+}
+.features-heads{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  font-size: 3rem;
+  text-align: center;
+}
+.features-calender{
+  padding: 20px;
+  width: 30%;
+  display: inline-block;
+}
+.calender{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+.calender-para{
+  display: inline-block;
+  font-size: 2rem;
+}
+.details{
+  text-align: center;
+}
+.footer{
+  display: inherit;
+  background-color: black;
+}
+.footer-img{
+  display: inline-flex;
+  padding-left: 4%;
+}
+.insta{
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.gmail{
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.classmate-copy{
+  text-align: justify;
+  font-size: 1.5rem;
+  display: inline-block;
+  color: white;
+  padding-left: 70%;
+  padding-top: 20px;
+}
