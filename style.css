@@ -31,7 +31,7 @@ h1{
   display: inline-block;
 }
 .order{
-  padding-left: 60px;
+  padding-left: 40px;
 }
 .button{
   border-style: solid;
@@ -62,7 +62,7 @@ h1{
 }
 .body{
 
-  padding-left: 300px;
+  padding-left: 200px;
   padding-top: 100px;
   padding-bottom: 100px;
   color: #68A7AD;
