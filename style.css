@@ -88,47 +88,70 @@ h1{
 
 }
 .images{
-  padding-left: 70px;
-
-}
-.img{
-  padding: 30px;
-}
-.img-project{
-  padding-top: 55px;
-  padding-left: 30px;
-
+  display: inline-block;
+  padding: 50px;
 }
 .assignment{
-  padding-top: 20px;
-  width:20%;
-  display: inline-block;
-}
-.project{
-  padding-top: 20px;
-  padding-left: 30px;
   display: inline-block;
   width: 20%;
-}
-
-.exam{
-  padding-top: 40px;
-  padding-left: 40px;
-display: inline-block;
-width: 20%;
-}
-.work{
-  padding-left: 40px;
-display: inline-block;
-width: 25%;
-
-}
-.center{
   text-align: center;
+  padding-right: 40px;
+  padding-left: 55px;
 }
-.para{
+.assignment-img{
+  height: 125px;
+  width: 200px;
+}
+.para1{
   text-align: justify;
 }
+.project{
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  padding-right: 40px;
+  position: relative;
+  top: 20px;
+}
+.project-img{
+  height: 125px;
+  width: 200px;
+}
+.para2{
+  text-align: justify;
+}
+.exam{
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  padding-right: 40px;
+  position: relative;
+  
+}
+.exam-img{
+  height: 125px;
+  width: 200px;
+}
+.para3{
+  text-align: justify;
+}
+.work{
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  padding-right: 40px;
+  position: relative;
+  top: 40px;
+}
+.work-img{
+  height: 125px;
+  width: 200px;
+}
+.para4{
+  text-align: justify;
+}
+
+
 .aboutme-div{
   text-align: center;
   font-size: 1.5rem;
